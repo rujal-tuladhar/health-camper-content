@@ -33,7 +33,7 @@ Apps pick up changes on next open or pull-to-refresh. No app update needed.
 1. Drop the video file into `videos/` (keep it short and compressed —
    under ~50 MB; GitHub blocks files over 100 MB).
 2. Set the item's `videoURL` to:
-   `https://raw.githubusercontent.com/GITHUB-USERNAME/health-camper-content/main/videos/FILENAME.mp4`
+   `https://raw.githubusercontent.com/rujaltuladhar/health-camper-content/main/videos/FILENAME.mp4`
 3. Commit + push.
 
 ## Rules
